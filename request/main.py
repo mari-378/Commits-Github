@@ -1,8 +1,6 @@
 from github_commits import get_commits, merge_sort
 
-if __name__ == "__main__":
-    print("Executando o main.py...")
-    
+if __name__ == "__main__": 
     user = ""
     repo = ""
 
